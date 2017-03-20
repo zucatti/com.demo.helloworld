@@ -1,23 +1,23 @@
 {
-    "namespace": "com.demo.helloworld",
-    "git": "https://github.com/zucatti/com.demo.helloworld.git",
-    "title": "HelloWorld",
-    "description": "Ma première application Omneedia",
+    "namespace": "{NAMESPACE}",
+    "git": "",
+    "title": "{TITLE}",
+    "description": "{DESCRIPTION}",
     "platform": "desktop",
-    "uid": "SkCuEvasg",
-    "version": "0.0.1",
+    "uid": "{UID}",
+    "version": "0.01",
     "build": "0",
-    "targets": [
-        "webapp"
-    ],
-    "copyright": "Copyright (c) 2017 zucatti",
+	"targets": [
+		"webapp"
+	],
+    "copyright": "{COPYRIGHT}",
     "license": "bsd3",
     "author": {
-        "name": "Stéphane ZUCATTI",
-        "mail": "stephane.zucatti@me.com",
-        "twitter": "",
+        "name": "XXX",
+        "mail": "xxx@xxx.com",
+        "twitter": "@xxx",
         "web": "",
-        "github": "https://github.com/zucatti"
+        "github": ""
     },
     "team": {
         "debugger": [],
