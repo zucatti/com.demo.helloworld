@@ -60,7 +60,8 @@
     ],
     "db": [
         "db0",
-        "db1"
+        "db1",
+        "sakila"
     ],
     "packages": [],
     "icon": {
