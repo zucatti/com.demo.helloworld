@@ -58,9 +58,7 @@
     "api": [
         "MyService"
     ],
-    "db": [
-        "db0"
-    ],
+    "db": [],
     "packages": [],
     "icon": {
         "background": "#FFFFFF",
