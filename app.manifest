@@ -59,9 +59,7 @@
         "MyService"
     ],
     "db": [
-        "db0",
-        "db1",
-        "sakila"
+        "db0"
     ],
     "packages": [],
     "icon": {
